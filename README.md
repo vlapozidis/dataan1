@@ -1,2 +1,1 @@
-# dataan1
-My First Liquor Store Analysis Project 
+Below is a full description of the data extraction and results, using data from finance_liquor_sales in Excel and processing it in Python with the built-in Pandas libraries for importing and modifying the database, as well as the Matplotlib library for data visualization.
